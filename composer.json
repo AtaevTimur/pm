@@ -17,6 +17,10 @@
         "psr-4": {
             "test\\": "test/",
             "file\\": "file/"
-        }
+        },
+        "classmap": [
+            "file",
+            "test"
+        ]
     }
 }
